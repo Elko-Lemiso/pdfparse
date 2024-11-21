@@ -1,0 +1,174 @@
+{
+    "properties": [
+        {
+            "Title": "Residential property with Bungalow and Triple storey House",
+            "Location": "Makutano area, Meru Town",
+            "Features": [
+                "Three bedroom Bungalow",
+                "Four bedroom Triple storey House",
+                "Gazebo",
+                "Servant quarters"
+            ],
+            "Seller Description": "Situated within Makutano area (1 behind Three Steers Hotel), Meru Town - Meru County",
+            "Acreage": "0.395 acres",
+            "Bathrooms": null,
+            "Bedrooms": "Three bedroom Bungalow, Four bedroom Triple storey House",
+            "City": "Meru Town",
+            "Code": null,
+            "County": "Meru County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "32.0M"
+        },
+        {
+            "Title": "Commercial property with shops and proposed restaurant",
+            "Location": "Makutano area, Meru Town",
+            "Features": [
+                "Three shops",
+                "Proposed restaurant"
+            ],
+            "Seller Description": "Situated within Makutano area (opposite Kenol petrol station next to Associated Motors), Meru Town - Meru County",
+            "Acreage": "0.10 acres",
+            "Bathrooms": null,
+            "Bedrooms": null,
+            "City": "Meru Town",
+            "Code": null,
+            "County": "Meru County",
+            "Street": null,
+            "Property Type": "Commercial",
+            "Guiding Price": "9.0M"
+        },
+        {
+            "Title": "Residential property with double storey house and incomplete building",
+            "Location": "Kiamunyi area, Ngata",
+            "Features": [
+                "Five bedroom double storey house",
+                "Incomplete three storey building of 12 one bedroom units",
+                "Block of two one bedroom units"
+            ],
+            "Seller Description": "Situated within Kiamunyi area (990 metres east of Kagaki Primary School), Ngata - Nakuru County",
+            "Acreage": "0.25 acres",
+            "Bathrooms": null,
+            "Bedrooms": "Five bedroom double storey house",
+            "City": "Ngata",
+            "Code": null,
+            "County": "Nakuru County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "21.0M"
+        },
+        {
+            "Title": "Commercial project with housing phases",
+            "Location": "Malaa area, Machakos County",
+            "Features": [
+                "Phase 1: Fifty four three-bedroomed bungalows",
+                "Four two-bedroomed bungalows",
+                "Phase 2: Vacant (construction yet to commence)"
+            ],
+            "Seller Description": "Situated off Kangundo road within Malaa area - Machakos County",
+            "Acreage": "9.95 acres",
+            "Bathrooms": null,
+            "Bedrooms": "Three-bedroomed and two-bedroomed bungalows",
+            "City": null,
+            "Code": null,
+            "County": "Machakos County",
+            "Street": null,
+            "Property Type": "Commercial",
+            "Guiding Price": "195.0M"
+        },
+        {
+            "Title": "Vacant Residential property",
+            "Location": "Sikata market, Bungoma County",
+            "Features": [],
+            "Seller Description": "Situated within Sikata market off Bungoma - Webuye Highway - Bungoma County",
+            "Acreage": "1.0 acres",
+            "Bathrooms": null,
+            "Bedrooms": null,
+            "City": null,
+            "Code": null,
+            "County": "Bungoma County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "4.5M"
+        },
+        {
+            "Title": "Vacant Commercial property",
+            "Location": "Kory Family Hospital area, Bungoma County",
+            "Features": [],
+            "Seller Description": "Situated within Kory Family Hospital area along Kimilili - Kamukuywa Road - Bungoma County",
+            "Acreage": "0.2471 acres",
+            "Bathrooms": null,
+            "Bedrooms": null,
+            "City": null,
+            "Code": null,
+            "County": "Bungoma County",
+            "Street": null,
+            "Property Type": "Commercial",
+            "Guiding Price": "2.7M"
+        },
+        {
+            "Title": "Residential property with double storey house",
+            "Location": "Two Rivers Crescent Estate, Ruiru",
+            "Features": [
+                "Five bedroom double storey house"
+            ],
+            "Seller Description": "Situated within Two Rivers Crescent Estate, Ruiru - Kiambu County",
+            "Acreage": "0.4977 acres",
+            "Bathrooms": null,
+            "Bedrooms": "Five bedroom double storey house",
+            "City": "Ruiru",
+            "Code": null,
+            "County": "Kiambu County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "21.5M"
+        },
+        {
+            "Title": "Residential Maisonette",
+            "Location": "Akiba Estate Phase II, South C",
+            "Features": [
+                "Four bedroom Maisonette"
+            ],
+            "Seller Description": "Situated within Akiba Estate Phase II along Muhoho Avenue, South C - Nairobi County",
+            "Acreage": null,
+            "Bathrooms": null,
+            "Bedrooms": "Four bedroom Maisonette",
+            "City": "Nairobi",
+            "Code": null,
+            "County": "Nairobi County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "15.0M"
+        },
+        {
+            "Title": "Residential property",
+            "Location": "United Nations Crescent road, Gigiri",
+            "Features": [],
+            "Seller Description": "Situated along United Nations Crescent road - Gigiri - Nairobi County",
+            "Acreage": "1.422 acres",
+            "Bathrooms": null,
+            "Bedrooms": null,
+            "City": "Nairobi",
+            "Code": null,
+            "County": "Nairobi County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "155.0M"
+        },
+        {
+            "Title": "Vacant Residential property",
+            "Location": "Olooyiangalani area, Isinya",
+            "Features": [],
+            "Seller Description": "Situated within Olooyiangalani area, Isinya - Kajiado County",
+            "Acreage": "0.1 acres",
+            "Bathrooms": null,
+            "Bedrooms": null,
+            "City": null,
+            "Code": null,
+            "County": "Kajiado County",
+            "Street": null,
+            "Property Type": "Residential",
+            "Guiding Price": "900K"
+        }
+    ]
+}
